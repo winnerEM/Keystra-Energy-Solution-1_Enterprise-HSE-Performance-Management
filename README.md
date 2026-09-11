@@ -33,9 +33,9 @@ Repository Contents:
 
 
 Full Data Warehouse:
-The complete synthetic data warehouse used for this project is available here:
+All portfolio artefacts is also available on google drive, including the complete synthetic data used for this project:
 
-https://drive.google.com/drive/folders/1zabslWUCRJXYlaH6Jjztg8AKrGB1cPnM?usp=sharing
+https://drive.google.com/drive/folders/1Yr93K8r1ybdGdX4TRtibGDDTO4vx8bpu?usp=sharing 
 
 
 Data Disclaimer:
