@@ -32,7 +32,6 @@ Repository Contents:
 🗄️ Data Warehouse — engineered HSE dimensions and fact tables used for analysis.
 
 
-Full Data Warehouse:
 All portfolio artefacts is also available on google drive, including the complete synthetic data used for this project:
 
 https://drive.google.com/drive/folders/1Yr93K8r1ybdGdX4TRtibGDDTO4vx8bpu?usp=sharing 
